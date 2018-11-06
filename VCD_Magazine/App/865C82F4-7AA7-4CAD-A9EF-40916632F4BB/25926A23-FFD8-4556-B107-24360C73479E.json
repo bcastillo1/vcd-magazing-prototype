@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "5D8DE6D0-2DE6-4137-9758-81F6AD743E8E",
+  "_class": "symbolInstance",
+  "do_objectID": "25926A23-FFD8-4556-B107-24360C73479E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,39 +13,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 40,
+    "width": 320,
     "x": 0,
-    "y": 0
+    "y": -1
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "865C82F4-7AA7-4CAD-A9EF-40916632F4BB"
-    },
-    {
-      "class": "artboard",
-      "id": "75550FA5-736D-4452-AD39-452344FFEDFD"
-    }
+  "name": "Navbar",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "App",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -53,10 +39,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "0075192A-D63A-4799-A2A7-8AE1FB941CF9",
+  "verticalSpacing": 0
 }

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C580B99C-D8DE-4165-835B-C0D15D613078",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 288,
+    "x": 0,
+    "y": 568
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "A-Student-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC9FE84E-CF03-40FD-9686-0D413D8276C1",
+      "overrideName": "882CD7AC-51CE-44F7-A3C6-21D34866BB08_stringValue",
+      "value": "Todd Quinn"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A283BE2-F833-4C5F-B015-ACB78FE3039F",
+      "overrideName": "CE52C83A-2B7D-4EFB-A1FB-C0133993DF8F_stringValue",
+      "value": "Winnie Garcia"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "411D5772-5E2A-4879-B44D-069472198360",
+      "overrideName": "0EF7FC53-CC29-4E22-A715-1BD0D4686A1C_stringValue",
+      "value": "Adrian Welch"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "09CCB1ED-A80C-459C-B18D-322CD14A4D48",
+  "verticalSpacing": 0
+}

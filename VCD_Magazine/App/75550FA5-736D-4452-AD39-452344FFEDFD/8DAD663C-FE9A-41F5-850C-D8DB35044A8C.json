@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "5D8DE6D0-2DE6-4137-9758-81F6AD743E8E",
+  "_class": "symbolInstance",
+  "do_objectID": "8DAD663C-FE9A-41F5-850C-D8DB35044A8C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,50 +13,40 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 164,
+    "width": 219,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "865C82F4-7AA7-4CAD-A9EF-40916632F4BB"
-    },
-    {
-      "class": "artboard",
-      "id": "75550FA5-736D-4452-AD39-452344FFEDFD"
-    }
+  "name": "VCD LOGO",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "App",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0.4900000095367432,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.900000095367432,
+      "type": 0
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "3C49A379-40A1-4A8E-B870-03C8DAD8CE1A",
+  "verticalSpacing": 0
 }

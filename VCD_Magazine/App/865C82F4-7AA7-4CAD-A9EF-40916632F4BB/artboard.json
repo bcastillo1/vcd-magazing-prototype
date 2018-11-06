@@ -23,7 +23,13 @@
     "height": 2491,
     "width": 320,
     "x": 53,
-    "y": -218
+    "y": -272
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,10 +50,22 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "B03E621C-63D2-4A35-B0A1-FACD9B184E47"
+      "id": "25926A23-FFD8-4556-B107-24360C73479E"
+    },
+    {
+      "class": "text",
+      "id": "8093DDDC-0C57-48D6-8642-EB3ED3FFEA87"
+    },
+    {
+      "class": "text",
+      "id": "B82765DD-AAFE-4356-959B-318DDB591B69"
+    },
+    {
+      "class": "group",
+      "id": "49AE9FA7-787D-4D64-A650-80726C17D366"
     }
   ],
-  "name": "home",
+  "name": "Home",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

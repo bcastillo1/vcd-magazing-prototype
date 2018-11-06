@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9A2F50CC-83D1-4F64-A25A-E8A5518E3E3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 288,
+    "x": 0,
+    "y": 284
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "A-Student-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF3FE31E-B816-48E3-A75D-F28A0FCD67E1",
+      "overrideName": "882CD7AC-51CE-44F7-A3C6-21D34866BB08_stringValue",
+      "value": "Gertrude Henry"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D338CFB3-0888-4704-A517-5C9630275FD6",
+      "overrideName": "CE52C83A-2B7D-4EFB-A1FB-C0133993DF8F_stringValue",
+      "value": "Max Craig"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72C0F52F-150D-468A-8A87-F43DE44C5B28",
+      "overrideName": "0EF7FC53-CC29-4E22-A715-1BD0D4686A1C_stringValue",
+      "value": "Lucy Lane"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "09CCB1ED-A80C-459C-B18D-322CD14A4D48",
+  "verticalSpacing": 0
+}
