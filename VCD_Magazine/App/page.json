@@ -1,13 +1,6 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "do_objectID": "865C82F4-7AA7-4CAD-A9EF-40916632F4BB",
+  "_class": "page",
+  "do_objectID": "5D8DE6D0-2DE6-4137-9758-81F6AD743E8E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,12 +13,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 320,
-    "x": 53,
-    "y": -218
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -33,34 +25,24 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "B03E621C-63D2-4A35-B0A1-FACD9B184E47"
+      "class": "artboard",
+      "id": "865C82F4-7AA7-4CAD-A9EF-40916632F4BB"
     }
   ],
-  "name": "Mobile",
-  "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Mobile",
-    "offersLandscapeVariant": 1,
-    "width": 320
-  },
-  "resizesContent": false,
+  "name": "App",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

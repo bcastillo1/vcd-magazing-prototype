@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "5D8DE6D0-2DE6-4137-9758-81F6AD743E8E",
+  "do_objectID": "883937AC-AB79-4D7F-BFF2-81CC260C749A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,7 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -348,
     "guides": [
     ]
   },
@@ -32,10 +32,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "artboard",
-      "id": "865C82F4-7AA7-4CAD-A9EF-40916632F4BB"
-    }
   ],
   "name": "Page 1",
   "nameIsFixed": false,
@@ -51,7 +47,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -262,
     "guides": [
     ]
   }
