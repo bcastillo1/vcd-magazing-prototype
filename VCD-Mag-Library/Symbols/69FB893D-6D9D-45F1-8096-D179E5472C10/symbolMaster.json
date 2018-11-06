@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 190,
   "do_objectID": "69FB893D-6D9D-45F1-8096-D179E5472C10",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 643,
-    "width": 1392,
+    "height": 320,
+    "width": 427,
     "x": 392,
     "y": 0
   },
@@ -51,7 +51,7 @@
   ],
   "name": "VCD LOGO",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

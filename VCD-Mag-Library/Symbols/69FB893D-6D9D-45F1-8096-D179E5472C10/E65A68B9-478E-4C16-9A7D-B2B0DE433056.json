@@ -75,12 +75,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 643,
-    "width": 1392,
+    "height": 320,
+    "width": 427,
     "x": 0,
-    "y": 0
+    "y": 41
   },
-  "glyphBounds": "{{-2, 69}, {502, 200}}",
+  "glyphBounds": "{{-2, 69}, {343, 548}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
