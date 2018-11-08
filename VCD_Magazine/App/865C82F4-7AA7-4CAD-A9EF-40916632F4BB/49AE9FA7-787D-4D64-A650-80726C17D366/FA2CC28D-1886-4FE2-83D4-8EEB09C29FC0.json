@@ -29,19 +29,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A1867BCF-9616-49BC-A83C-F42A522B3D0B",
-      "overrideName": "882CD7AC-51CE-44F7-A3C6-21D34866BB08_stringValue",
-      "value": "Roy Daniel"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E3D43755-71BC-46EE-B680-100435D505A1",
+      "do_objectID": "7D4A55A2-D471-4080-9E60-9F0915F6BEEA",
       "overrideName": "CE52C83A-2B7D-4EFB-A1FB-C0133993DF8F_stringValue",
       "value": "Jerry Pratt"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A7F32BC2-A18F-4900-B417-B6238512731B",
+      "do_objectID": "05C48C9C-7979-4FC1-BBB5-2B3989E060B8",
       "overrideName": "0EF7FC53-CC29-4E22-A715-1BD0D4686A1C_stringValue",
       "value": "Jesse Sherman"
     }

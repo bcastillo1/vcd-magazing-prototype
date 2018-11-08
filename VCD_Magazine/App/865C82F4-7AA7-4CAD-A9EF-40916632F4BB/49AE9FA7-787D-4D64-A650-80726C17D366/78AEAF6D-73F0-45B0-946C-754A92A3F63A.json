@@ -29,19 +29,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1D6D9FB9-7DD0-4597-863D-767542EBEAC1",
-      "overrideName": "882CD7AC-51CE-44F7-A3C6-21D34866BB08_stringValue",
-      "value": "George Simmons"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0365E687-4C48-4DDE-A5F3-556F15FD1441",
+      "do_objectID": "FCBA8CCF-C45F-41E4-80D9-517955DF46F3",
       "overrideName": "CE52C83A-2B7D-4EFB-A1FB-C0133993DF8F_stringValue",
       "value": "Hester Nguyen"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "BC8CD449-0B58-495C-8D0E-628A11DA1DAF",
+      "do_objectID": "67422A75-2610-489A-8017-64D57769EEF6",
       "overrideName": "0EF7FC53-CC29-4E22-A715-1BD0D4686A1C_stringValue",
       "value": "Harvey Mann"
     }

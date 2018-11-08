@@ -29,19 +29,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "FF3FE31E-B816-48E3-A75D-F28A0FCD67E1",
-      "overrideName": "882CD7AC-51CE-44F7-A3C6-21D34866BB08_stringValue",
-      "value": "Gertrude Henry"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D338CFB3-0888-4704-A517-5C9630275FD6",
+      "do_objectID": "8022F6A0-3470-407D-8F6A-902A1CC46B0B",
       "overrideName": "CE52C83A-2B7D-4EFB-A1FB-C0133993DF8F_stringValue",
       "value": "Max Craig"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "72C0F52F-150D-468A-8A87-F43DE44C5B28",
+      "do_objectID": "0266A1FD-B4FC-4A06-A736-1CB36499C03C",
       "overrideName": "0EF7FC53-CC29-4E22-A715-1BD0D4686A1C_stringValue",
       "value": "Lucy Lane"
     }
