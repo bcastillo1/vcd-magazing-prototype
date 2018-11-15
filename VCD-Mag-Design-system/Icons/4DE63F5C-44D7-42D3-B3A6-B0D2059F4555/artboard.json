@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "0BA22AE4-8472-4239-B46B-37885EF51C96",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "4DE63F5C-44D7-42D3-B3A6-B0D2059F4555",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,44 +20,40 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 20,
+    "width": 24,
+    "x": -802,
+    "y": -736
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "9999799F-2AD8-4E87-864E-A34C85FDC9E3"
-    },
-    {
-      "class": "artboard",
-      "id": "4DE63F5C-44D7-42D3-B3A6-B0D2059F4555"
-    },
-    {
-      "class": "artboard",
-      "id": "2163B568-98BD-442C-89F1-658FC37FFCE7"
+      "class": "group",
+      "id": "687155E0-770C-496F-94FD-4CDFEA64685F"
     }
   ],
-  "name": "Icons",
+  "name": "Camera",
   "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
