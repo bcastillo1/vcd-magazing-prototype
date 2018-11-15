@@ -33,16 +33,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "3B011851-22E8-40C7-AC55-B359F3962449"
+      "class": "symbolInstance",
+      "id": "1C8E8099-11CC-4D4D-8E80-B0D6EB624155"
     },
     {
-      "class": "shapeGroup",
-      "id": "C4A51E32-2C08-482C-A6B6-8B16513ED99C"
+      "class": "symbolInstance",
+      "id": "D8FCA474-497E-400E-96F8-21A4FBDA33AE"
     },
     {
-      "class": "shapeGroup",
-      "id": "D7CF244E-EFEE-4512-83F7-97C2CFD4A784"
+      "class": "symbolInstance",
+      "id": "5F2E0F8F-2713-4703-A3CB-723F383C4082"
     }
   ],
   "name": "Colors",

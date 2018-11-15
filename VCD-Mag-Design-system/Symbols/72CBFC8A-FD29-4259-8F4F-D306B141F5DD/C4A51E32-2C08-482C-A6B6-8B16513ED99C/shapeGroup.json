@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "D7CF244E-EFEE-4512-83F7-97C2CFD4A784",
+  "do_objectID": "C4A51E32-2C08-482C-A6B6-8B16513ED99C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "529C3AED-6359-4856-B016-E273475458E2",
+    "do_objectID": "70E78134-9B7A-4EF2-9003-7C460C517D55",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C78855C6-B6B9-4715-9EC7-E49FC96C71FC",
+    "do_objectID": "49042B9F-2806-40D6-8566-2B89BEDD8A75",
     "height": 100,
     "width": 100,
-    "x": 84,
-    "y": -101
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,10 +31,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3A69AA8A-F921-47EB-A62C-847A7D3ADE1D"
+      "id": "2CD38E63-516F-4838-9E0E-9291B579E625"
     }
   ],
-  "name": "Teriary",
+  "name": "Secondary",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -58,7 +58,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "76D3C295-1979-43E5-9FDA-90CC9DE0988B",
+    "do_objectID": "B3C37212-31EE-4AB6-B301-F6551FC1440A",
     "endDecorationType": 0,
     "fills": [
       {
@@ -66,9 +66,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.7598996162414551,
+          "green": 0.8883756995201111,
+          "red": 0.3143693506717682
         },
         "fillType": 0,
         "isEnabled": true,

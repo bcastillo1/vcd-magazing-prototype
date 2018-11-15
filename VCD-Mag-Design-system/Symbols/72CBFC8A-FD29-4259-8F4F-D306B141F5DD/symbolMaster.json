@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "9999799F-2AD8-4E87-864E-A34C85FDC9E3",
+  "changeIdentifier": 3,
+  "do_objectID": "72CBFC8A-FD29-4259-8F4F-D306B141F5DD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 22,
-    "x": -842,
-    "y": -737
+    "height": 100,
+    "width": 100,
+    "x": 1727,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,21 +35,22 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "DD0B795D-762E-4737-B8F2-119226AABB93"
+      "class": "shapeGroup",
+      "id": "C4A51E32-2C08-482C-A6B6-8B16513ED99C"
     }
   ],
-  "name": "Aperture",
-  "nameIsFixed": true,
+  "name": "Secondary",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,6 +62,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "3C9FE9E4-6E1E-4129-8DA6-DBCDEA1BF2AC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
