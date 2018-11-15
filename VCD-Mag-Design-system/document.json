@@ -491,10 +491,11 @@
   },
   "pages": [
     "Library Preview",
-    "Icons",
     "Logos",
-    "Symbols",
     "UI Element",
+    "Colors",
+    "Icons",
+    "Symbols",
     "Student Listing"
   ],
   "userInfo": {
