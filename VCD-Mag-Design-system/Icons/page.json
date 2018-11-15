@@ -1,13 +1,6 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "do_objectID": "F962D72F-E735-46E8-86FF-A17D25C7E683",
+  "_class": "page",
+  "do_objectID": "0BA22AE4-8472-4239-B46B-37885EF51C96",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,12 +13,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
-    "width": 200,
-    "x": -901,
-    "y": -879
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -33,31 +25,32 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "DE50EECE-6D0C-44AF-B90D-FBC546339719"
+      "class": "symbolInstance",
+      "id": "B5CF5062-0899-4A2E-8AB7-F2228D47B8E4"
     },
     {
       "class": "symbolInstance",
-      "id": "1D419983-0D94-43BD-A763-D1694CE38BCD"
+      "id": "2DAEB943-23B7-407B-BB1A-39AD9C66EE90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B5A6DB3-2B3D-4D19-A10B-CCFBC93E6EBD"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "Icons",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

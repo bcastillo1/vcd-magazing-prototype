@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "DE50EECE-6D0C-44AF-B90D-FBC546339719",
+  "do_objectID": "72289654-723B-4326-AF6E-369B6ED7CD3A",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5753CF39-A728-457D-B305-4A56762D9C11",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,9 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
-    "width": 200,
-    "x": 0,
+    "do_objectID": "621760DD-3B0F-417E-BC77-426CB3420DAA",
+    "height": 318,
+    "width": 397,
+    "x": -2,
     "y": 0
   },
   "hasClickThrough": false,
@@ -29,7 +31,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "BBD91C15-50A3-4626-BBE9-FCD0E474287A"
+      "id": "79430408-07BB-437B-BF40-D361D27BA62D"
     }
   ],
   "name": "Rectangle",
@@ -56,6 +58,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "D282B732-6DBD-4F9C-B06F-C48D896E0040",
     "endDecorationType": 0,
     "fills": [
       {

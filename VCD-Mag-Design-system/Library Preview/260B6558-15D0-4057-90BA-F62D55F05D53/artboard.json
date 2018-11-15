@@ -45,6 +45,14 @@
     {
       "class": "group",
       "id": "1845BBA3-CB06-495C-888E-451DEC758279"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72289654-723B-4326-AF6E-369B6ED7CD3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25B2BC03-94B9-48FA-A6B4-A229AD6AEDA7"
     }
   ],
   "name": "Artboard",
