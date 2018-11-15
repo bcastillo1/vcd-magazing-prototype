@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "359E4D8E-162E-4094-8686-D294D6285677",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 288,
+    "x": 0,
+    "y": 1278
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "A-Student-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4F8ED69-99FC-4C96-8F7C-6E91101127D8",
+      "overrideName": "CE52C83A-2B7D-4EFB-A1FB-C0133993DF8F_stringValue",
+      "value": "Theresa Curry"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64F5B190-CDC2-482D-873B-5858C57E8142",
+      "overrideName": "0EF7FC53-CC29-4E22-A715-1BD0D4686A1C_stringValue",
+      "value": "Cody Goodwin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "09CCB1ED-A80C-459C-B18D-322CD14A4D48",
+  "verticalSpacing": 0
+}

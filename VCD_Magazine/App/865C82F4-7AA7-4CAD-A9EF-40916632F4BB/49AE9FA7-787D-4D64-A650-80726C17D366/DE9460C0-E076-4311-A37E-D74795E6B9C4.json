@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DE9460C0-E076-4311-A37E-D74795E6B9C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 288,
+    "x": 0,
+    "y": 852
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "A-Student-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFB34691-B5CF-4CDD-8418-533FF21525C6",
+      "overrideName": "CE52C83A-2B7D-4EFB-A1FB-C0133993DF8F_stringValue",
+      "value": "Wesley Sherman"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "77AC9558-92BC-4CC1-8A3C-9757BB82EED9",
+      "overrideName": "0EF7FC53-CC29-4E22-A715-1BD0D4686A1C_stringValue",
+      "value": "Corey Harrison"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "09CCB1ED-A80C-459C-B18D-322CD14A4D48",
+  "verticalSpacing": 0
+}

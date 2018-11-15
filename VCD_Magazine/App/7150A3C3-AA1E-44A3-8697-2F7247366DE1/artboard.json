@@ -4,12 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "E530CEEB-1943-4013-9D79-0F05DF9E0E5D",
     "green": 1,
     "red": 1
   },
-  "do_objectID": "865C82F4-7AA7-4CAD-A9EF-40916632F4BB",
+  "do_objectID": "7150A3C3-AA1E-44A3-8697-2F7247366DE1",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D18AC475-CFA4-4601-92D5-89DE4C93A0B7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -20,13 +22,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "C7371D03-249C-4B83-9EB9-D31F8F29C272",
     "height": 2491,
     "width": 320,
-    "x": 53,
-    "y": -272
+    "x": 406,
+    "y": -270
   },
   "grid": {
     "_class": "simpleGrid",
+    "do_objectID": "13AABE53-7D8F-4844-8006-6B846C39A7C7",
     "gridSize": 8,
     "isEnabled": true,
     "thickGridTimes": 0
@@ -36,6 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "1309F4E6-FC7C-48AB-A0DB-BE3EB6FB2C95",
     "guides": [
     ]
   },
@@ -50,24 +55,25 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "25926A23-FFD8-4556-B107-24360C73479E"
+      "id": "D3C03C01-19A9-413B-B5F0-F94BCAD4F9DF"
     },
     {
       "class": "text",
-      "id": "8093DDDC-0C57-48D6-8642-EB3ED3FFEA87"
+      "id": "BF20C0FD-DF30-4CFE-9E38-CCA48248F704"
     },
     {
       "class": "text",
-      "id": "B82765DD-AAFE-4356-959B-318DDB591B69"
+      "id": "9C041F6E-4430-43D8-98D5-591CFC7EF007"
     },
     {
       "class": "group",
-      "id": "49AE9FA7-787D-4D64-A650-80726C17D366"
+      "id": "1A680A42-8EB5-4960-B909-2E35D62EF01D"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 23,
+    "do_objectID": "D4B3CE6C-283F-4A55-A1E9-C6FA341E9E17",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -80,7 +86,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Home A",
+  "name": "Home B",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -96,6 +102,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "2186E54B-EC5E-43F9-AF98-1491D35BDEBA",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
@@ -103,6 +110,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "C703E2F7-CC55-4ECC-9B99-D53E7F3496FC",
     "guides": [
     ]
   }

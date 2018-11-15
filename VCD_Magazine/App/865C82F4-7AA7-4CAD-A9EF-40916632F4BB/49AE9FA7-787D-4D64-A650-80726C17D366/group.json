@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 710,
+    "height": 1838,
     "width": 288,
     "x": 2,
     "y": 49
@@ -23,12 +23,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "AB8B3BEA-CA6F-4E93-BC10-3192A4833ABB"
-    },
     {
       "class": "symbolInstance",
       "id": "ABFD5FCA-B93E-4F6A-8330-ED51C1DAD7FD"
@@ -47,7 +43,39 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C580B99C-D8DE-4165-835B-C0D15D613078"
+      "id": "2B698D27-8B20-4AE3-927B-9BDC427F5DFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39679817-F1DF-4AB2-886B-13794BB349A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE9460C0-E076-4311-A37E-D74795E6B9C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E96173A0-5AE7-4FED-BBC2-AFAB3CB4FD69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF69F2CF-725C-4BDD-8139-F6847C15FE14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "359E4D8E-162E-4094-8686-D294D6285677"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF93C8E9-0FAB-412B-96C3-3293BC211CDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECF036F4-4F74-4ED1-980B-BE4C35668E43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "090E29FA-6377-48C7-8A7A-0221531D094E"
     }
   ],
   "name": "Group",

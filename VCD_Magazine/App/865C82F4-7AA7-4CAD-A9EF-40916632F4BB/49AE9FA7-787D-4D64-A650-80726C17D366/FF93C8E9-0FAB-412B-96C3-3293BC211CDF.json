@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FF93C8E9-0FAB-412B-96C3-3293BC211CDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 288,
+    "x": 0,
+    "y": 1420
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "A-Student-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5873A56A-78C0-46A6-8269-2084F40AE900",
+      "overrideName": "CE52C83A-2B7D-4EFB-A1FB-C0133993DF8F_stringValue",
+      "value": "Willie Young"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E30FCD4-7060-4AF0-ADDF-DBD5A35292EB",
+      "overrideName": "0EF7FC53-CC29-4E22-A715-1BD0D4686A1C_stringValue",
+      "value": "Marvin Bates"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "09CCB1ED-A80C-459C-B18D-322CD14A4D48",
+  "verticalSpacing": 0
+}

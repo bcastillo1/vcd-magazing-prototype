@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "21468EBC-9CB4-482F-BE9F-A001890EBE32",
+  "do_objectID": "60A94C92-BDF6-474D-9713-17635D621BD4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,7 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -348,
+    "base": -277,
     "guides": [
     ]
   },
@@ -33,16 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "53B35420-D60A-4D03-B24E-9BEDCC7E6611"
-    },
-    {
       "class": "symbolMaster",
-      "id": "3C8F4184-CA02-4AF9-9F92-A69BF70ED3D9"
+      "id": "6019A97C-7809-4CE1-A756-DAC9C6246BD2"
     }
   ],
-  "name": "Student Listing",
-  "nameIsFixed": true,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -55,7 +51,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -262,
+    "base": -368,
     "guides": [
     ]
   }

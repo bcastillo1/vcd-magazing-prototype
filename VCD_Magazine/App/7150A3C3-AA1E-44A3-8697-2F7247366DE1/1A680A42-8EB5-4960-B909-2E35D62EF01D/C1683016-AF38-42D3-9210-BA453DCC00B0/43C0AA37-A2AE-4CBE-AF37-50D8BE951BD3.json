@@ -1,7 +1,7 @@
 {
   "_class": "shapePath",
   "booleanOperation": -1,
-  "do_objectID": "A1C1CA8F-15D9-451A-813F-7D8CDB1694AB",
+  "do_objectID": "43C0AA37-A2AE-4CBE-AF37-50D8BE951BD3",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 710.0000000000001,
-    "width": 288,
+    "height": 768,
+    "width": 241,
     "x": 0,
     "y": 0
   },
