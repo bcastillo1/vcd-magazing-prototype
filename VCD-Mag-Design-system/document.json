@@ -1,0 +1,51 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "5EAA2242-E7D1-4EAD-8262-08447D7DF4FD",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
+  },
+  "pages": [
+    "Library Preview",
+    "Page 1",
+    "Logos",
+    "Symbols",
+    "UI Element",
+    "Student Listing"
+  ],
+  "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"871168786\",\"layerId\":\"F15D5929-8E1F-41DB-A8E9-9954853773FF\"}]"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
